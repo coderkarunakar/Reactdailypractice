@@ -9,7 +9,8 @@
   /* similarly to move our rectangel to bottom use margin top similarly bottom to get top  */
   margin-top:50px;
   padding-top: 10px;
-  text-align: left;  
+  text-align: left; 
+  border-radius: 15px; 
 }
 
 
