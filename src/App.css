@@ -8,14 +8,8 @@
   margin-right:100px;
   /* similarly to move our rectangel to bottom use margin top similarly bottom to get top  */
   margin-top:50px;
-
-
-  /* to keep the text exactly at the center of our rectangle
-   */
-   display: flex;
-   justify-content: center;
-   align-items: center;
-
-
+  padding-top: 10px;
+  text-align: left;  
 }
+
 
