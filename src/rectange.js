@@ -5,7 +5,7 @@ const Rectangle = ()=> {
   return(
   <div>
     <h1>Rectangle</h1>
-    <div className="rectangle"></div>
+    <div className="rectangle">Hello</div>
   </div>
   );
 }

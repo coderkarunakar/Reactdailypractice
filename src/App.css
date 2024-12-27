@@ -2,4 +2,20 @@
   height: 50px;
   width: 100px;
   background-color: aqua;
+  /* to move rectangel to the right use margin left*/
+  margin-left: 100px;
+  /* to move rectangle to the left we can use margin-right */
+  margin-right:100px;
+  /* similarly to move our rectangel to bottom use margin top similarly bottom to get top  */
+  margin-top:50px;
+
+
+  /* to keep the text exactly at the center of our rectangle
+   */
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+
 }
+
